@@ -1,0 +1,386 @@
+[
+  {
+    "season": 2025,
+    "round": 1,
+    "race": "Australian Grand Prix",
+    "driver": "Lando Norris",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 1,
+    "race": "Australian Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 2,
+    "race": "Chinese Grand Prix",
+    "driver": "Lando Norris",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 2,
+    "race": "Chinese Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 4,
+    "points": 12
+  },
+  {
+    "season": 2025,
+    "round": 3,
+    "race": "Japanese Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 3,
+    "race": "Japanese Grand Prix",
+    "driver": "Lando Norris",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 4,
+    "race": "Bahrain Grand Prix",
+    "driver": "Lando Norris",
+    "position": 3,
+    "points": 15
+  },
+  {
+    "season": 2025,
+    "round": 4,
+    "race": "Bahrain Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 6,
+    "points": 8
+  },
+  {
+    "season": 2025,
+    "round": 5,
+    "race": "Saudi Arabian Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 5,
+    "race": "Saudi Arabian Grand Prix",
+    "driver": "Lando Norris",
+    "position": 4,
+    "points": 12
+  },
+  {
+    "season": 2025,
+    "round": 6,
+    "race": "Miami Grand Prix",
+    "driver": "Lando Norris",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 6,
+    "race": "Miami Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 4,
+    "points": 12
+  },
+  {
+    "season": 2025,
+    "round": 7,
+    "race": "Emilia Romagna Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 7,
+    "race": "Emilia Romagna Grand Prix",
+    "driver": "Lando Norris",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 8,
+    "race": "Monaco Grand Prix",
+    "driver": "Lando Norris",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 8,
+    "race": "Monaco Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 4,
+    "points": 12
+  },
+  {
+    "season": 2025,
+    "round": 9,
+    "race": "Spanish Grand Prix",
+    "driver": "Lando Norris",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 9,
+    "race": "Spanish Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 10,
+    "points": 1
+  },
+  {
+    "season": 2025,
+    "round": 10,
+    "race": "Canadian Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 10,
+    "race": "Canadian Grand Prix",
+    "driver": "Lando Norris",
+    "position": 18,
+    "points": 0
+  },
+  {
+    "season": 2025,
+    "round": 11,
+    "race": "Austrian Grand Prix",
+    "driver": "Lando Norris",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 11,
+    "race": "Austrian Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 18,
+    "points": 0
+  },
+  {
+    "season": 2025,
+    "round": 12,
+    "race": "British Grand Prix",
+    "driver": "Lando Norris",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 12,
+    "race": "British Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 5,
+    "points": 10
+  },
+  {
+    "season": 2025,
+    "round": 13,
+    "race": "Belgian Grand Prix",
+    "driver": "Lando Norris",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 13,
+    "race": "Belgian Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 4,
+    "points": 12
+  },
+  {
+    "season": 2025,
+    "round": 14,
+    "race": "Hungarian Grand Prix",
+    "driver": "Lando Norris",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 14,
+    "race": "Hungarian Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 9,
+    "points": 2
+  },
+  {
+    "season": 2025,
+    "round": 15,
+    "race": "Dutch Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 15,
+    "race": "Dutch Grand Prix",
+    "driver": "Lando Norris",
+    "position": 18,
+    "points": 0
+  },
+  {
+    "season": 2025,
+    "round": 16,
+    "race": "Italian Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 16,
+    "race": "Italian Grand Prix",
+    "driver": "Lando Norris",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 17,
+    "race": "Azerbaijan Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 17,
+    "race": "Azerbaijan Grand Prix",
+    "driver": "Lando Norris",
+    "position": 7,
+    "points": 6
+  },
+  {
+    "season": 2025,
+    "round": 18,
+    "race": "Singapore Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 18,
+    "race": "Singapore Grand Prix",
+    "driver": "Lando Norris",
+    "position": 3,
+    "points": 15
+  },
+  {
+    "season": 2025,
+    "round": 19,
+    "race": "United States Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 19,
+    "race": "United States Grand Prix",
+    "driver": "Lando Norris",
+    "position": 2,
+    "points": 18
+  },
+  {
+    "season": 2025,
+    "round": 20,
+    "race": "Mexico City Grand Prix",
+    "driver": "Lando Norris",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 20,
+    "race": "Mexico City Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 3,
+    "points": 15
+  },
+  {
+    "season": 2025,
+    "round": 21,
+    "race": "São Paulo Grand Prix",
+    "driver": "Lando Norris",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 21,
+    "race": "São Paulo Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 3,
+    "points": 15
+  },
+  {
+    "season": 2025,
+    "round": 22,
+    "race": "Las Vegas Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 22,
+    "race": "Las Vegas Grand Prix",
+    "driver": "Lando Norris",
+    "position": 19,
+    "points": 0
+  },
+  {
+    "season": 2025,
+    "round": 23,
+    "race": "Qatar Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 23,
+    "race": "Qatar Grand Prix",
+    "driver": "Lando Norris",
+    "position": 4,
+    "points": 12
+  },
+  {
+    "season": 2025,
+    "round": 24,
+    "race": "Abu Dhabi Grand Prix",
+    "driver": "Max Verstappen",
+    "position": 1,
+    "points": 25
+  },
+  {
+    "season": 2025,
+    "round": 24,
+    "race": "Abu Dhabi Grand Prix",
+    "driver": "Lando Norris",
+    "position": 3,
+    "points": 15
+  }
+]

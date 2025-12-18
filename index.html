@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>F1 2025 ドライバー成績ダッシュボード</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- スタイル -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Chart.js（グラフ描画） -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <!-- ヘッダー：タイトル + ドライバー選択 -->
+  <header class="topbar">
+    <h1 class="title">F1 2025 Driver Performance Dashboard</h1>
+    <div class="driver-picker">
+      <span>ドライバー：</span>
+      <select id="driverSelect" aria-label="ドライバーを選択"></select>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- ヒーロー：ドライバー概要（肖像なし・番号表示） -->
+    <section id="driverHero" class="driver-hero">
+      <div class="driver-hero__bg"></div>
+
+      <div class="driver-hero__content">
+        <div class="driver-hero__left">
+          <div class="driver-hero__badge" id="heroBadge">Driver Profile</div>
+          <h2 class="driver-hero__name" id="heroName">—</h2>
+          <p class="driver-hero__sub" id="heroSub">—</p>
+          <div class="driver-hero__meta" id="heroMeta"></div>
+        </div>
+
+        <div class="driver-hero__right">
+          <div class="driver-hero__avatar">
+            <div class="driver-number" id="heroNumber">00</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 操作：ラウンド選択 -->
+    <section class="controls">
+      <div class="round-control">
+        <span class="round-label">Round</span>
+        <input type="range" id="roundSlider" />
+        <span class="round-value" id="roundValue"></span>
+      </div>
+    </section>
+
+    <!-- サマリー -->
+    <section class="summary" id="summary"></section>
+
+    <!-- グラフ -->
+    <section class="charts">
+      <div class="chart-card">
+        <h3 class="chart-title">Race Points &amp; Finish Position</h3>
+        <canvas id="raceChart"></canvas>
+      </div>
+
+      <div class="chart-card">
+        <h3 class="chart-title">Cumulative Championship Points</h3>
+        <canvas id="pointsChart"></canvas>
+      </div>
+    </section>
+  </main>
+
+  <!-- 画面ロジック -->
+  <script src="dashboard.js"></script>
+</body>
+</html>
